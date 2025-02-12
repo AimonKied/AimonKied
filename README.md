@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AimonKied but call me Aimon:)
+- 👋 Hi, I’m @AimonKied but call me Aimon :)
 - 👀 I’m interested in learning to Code
 - 🌱 I’m currently learning C, HTML and CSS.
 - 📫 How to reach me: Here on GitHub
