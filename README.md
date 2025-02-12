@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AimonKied but call me Aimon:)
 - 👀 I’m interested in learning to Code
-- 🌱 I’m currently learning HTML, CSS, JS, Python
+- 🌱 I’m currently learning C, HTML and CSS.
 - 📫 How to reach me: Here on GitHub
 - ⚡ Fun fact: I quit my Signmaker job to learn </>
 -  ? Anyone tried 42-Codingschool?
