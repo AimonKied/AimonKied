@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AimonKied but call me Aimon :)
 - 👀 I’m interested in learning to Code
 - 🌱 I’m currently learning C, HTML and CSS.
-- 📫 How to reach me: Here on GitHub
+- 📫 How to reach me: https://www.linkedin.com/in/simon-wied-a764a229a/
 - ⚡ Fun fact: I quit my Signmaker job to learn </>
 -  ? Anyone tried 42-Codingschool?
 
