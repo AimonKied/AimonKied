@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AimonKied but call me Aimon :)
-- 👀 I’m interested in learning to Code
-- 🌱 I’m currently learning C, C++, HTML and CSS.
+- 👋 Hi, I’m Simon but also known as Aimon :)
+- 🌱 Right now I focus on C, C++, HTML and CSS.
 - 📫 How to reach me: https://www.linkedin.com/in/simon-wied-a764a229a/
 - ⚡ Fun fact: I quit my Signmaker job to learn </>
 
