@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Simon but also known as Aimon :)
+- 👋 Hi, I’m Simon - also known as Aimon :)
 - 🌱 Right now I focus on C, C++, HTML and CSS.
 - 📫 How to reach me: https://www.linkedin.com/in/simon-wied-a764a229a/
 - ⚡ Fun fact: I quit my Signmaker job to learn </>
