@@ -17,8 +17,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aimonkied&show_icons=true&theme=dark&locale=en&rank_icon=github" alt="Simon GitHub Stats" style="width:400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimonkied&hide_progress=true&theme=dark" alt="Simon Top Languages" style="width:400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aimonkied&show_icons=true&theme=dark&locale=en&rank_icon=github" alt="Simon GitHub Stats" style="width:400px; height:200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimonkied&hide_progress=true&theme=dark" alt="Simon Top Languages" style="width:400px; height:200px"/>
 </p>
 
 ---
