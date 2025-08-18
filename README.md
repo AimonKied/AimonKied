@@ -19,15 +19,15 @@
 <div align="center" style="display:flex; justify-content:center; gap:20px;">
   
   <div style="height:200px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=aimonkied&show_icons=true&theme=dark&locale=en&rank_icon=github"
-         alt="Simon GitHub Stats" width="400" height="200" style="height:100%;"/>
-  </div>
-<br>
-  <div style="height:200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimonkied&hide_progress=true&theme=dark"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimonkied&hide_progress=true&theme=dark&hide_title=true"
          alt="Simon Top Languages" width="400" height="200" style="height:100%;"/>
   </div>
-
+  <br>
+  <div style="height:200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=aimonkied&show_icons=true&theme=dark&locale=en&rank_icon=github&hide=prs,contribs&hide_title=true"
+         alt="Simon GitHub Stats" width="400" height="200" style="height:100%;"/>
+  </div>
+  
 </div>
 
 ---
