@@ -1,9 +1,7 @@
-<p align="center">
-  👋 Hi, I’m <b>Simon</b> – also known as <b>Aimon</b> :)<br>
-  🌱 Currently diving deep into <b>C, C++, HTML & CSS</b><br>
-  ⚡ Fun fact: I quit my signmaker job to learn <b>coding full-time</b>!<br>
-  🧠 Learned how to learn to code at <b>42 Heilbronn</b> 🏫
-</p>
+<h3 align="center">👋 Hi, I’m <b>Simon</b> – also known as <b>Aimon</b> :)</h3>
+<p align="center">🌱 Currently diving deep into <b>C, C++, HTML & CSS</b> </p>
+<p align="center">⚡ Fun fact: I quit my signmaker job to learn <b>coding full-time</b>!</p>
+<p align="center">🧠 Learned how to learn to code at <b>42 Heilbronn</b> 🏫</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simon-wied-a764a229a/" target="_blank">
